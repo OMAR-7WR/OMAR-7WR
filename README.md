@@ -2,7 +2,9 @@
 
 
 
-<h3 align="center">I AM NOT JUST GOOD. I AM THE BEST AND BETTER THEB TO ALL.</h3>
+<h3 align="center"> WELCOME TO MY GITHUB.... 
+ ACTUALLY, I AM NOT JUST GOOD. I AM THE BEST AND BETTER THEN TO ALL.
+THANKS🙂</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-7wr&label=Profile%20views&color=0e75b6&style=flat" alt="omar-7wr" /> </p>
 
